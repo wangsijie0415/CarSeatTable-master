@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_9b060a67bdaedb4c569ce42116192e8518c7ce88\classes.dex" />
+    </item>
+    <item
+        jar="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_844706121171545cd46398c763133e596bf6a7b8\classes.dex" />
+    </item>
+    <item
+        jar="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3203515af1b442ea8662ddc9c6443f4e37551497">
+        <dex dex="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b791e85b595e82d20bc8b950cc4aabee8804dc2b\classes.dex" />
+    </item>
+    <item
+        jar="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d1147fc00012207a3638a0f1c50036abf7a68a5a">
+        <dex dex="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_06796795fe87195fa0e2ab4813efbba813c9220e\classes.dex" />
+    </item>
+    <item
+        jar="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_4d47f1e6b78b54e980e86ce6367200107a17e86a\classes.dex" />
+    </item>
+    <item
+        jar="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_bce028b3366451a256b98442949912f3eadef103\classes.dex" />
+    </item>
+    <item
+        jar="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_358dfe343cbdde9596fd3a41959b98240331b9a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\SoftWaer\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\project\AndridStudio\SeatTable-master\Demo\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c5b9b62c77e1897c5ebd18cfe3a06ae6bca3efa8\classes.dex" />
+    </item>
+
+</items>
